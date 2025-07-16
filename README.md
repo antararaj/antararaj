@@ -1,5 +1,11 @@
 # 💫 About Me:
-✨ Hello! I'm Antara, and I'm a junior CS + Stats student @ Virginia Tech!
+✨ Hello! I'm Antara, and I'm a junior Data-Centric Computing student w/ a minor in Statistics at Virginia Tech!
+
+Here's a little about me!
+
+Projects
+- 💻 My website!
+- ✈️ A Flight Delay Insight tracker
 
 Extracurriculars 💫
 - ⚡ Marching Virginians Colorguard
