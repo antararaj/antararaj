@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ CS + Stats @ Virginia Tech | Data Analyst
+✨ Hello! I'm Antara, and I'm a junior CS + Stats student @ Virginia Tech!
 
 Extracurriculars 💫
 - ⚡ Marching Virginians Colorguard
