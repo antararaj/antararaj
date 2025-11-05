@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Hello! I'm Antara, and I'm a junior Computational Modeling & Data Analytics student w/ minors in Statistics, Math, and Computer Science at Virginia Tech!
+✨ Hello! I'm Antara, and I'm a junior in Computational Modeling & Data Analytics student w/ minors in Statistics, Math, and Computer Science at Virginia Tech!
 
 Here's a little about me!
 
