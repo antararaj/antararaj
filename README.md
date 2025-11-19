@@ -4,15 +4,19 @@
 Here's a little about me!
 
 Projects
-- 💻 My website!
 - ✈️ A Flight Delay Insight tracker
 - ❤️ A Heart Failure Visualization
+- 🫂 A Virtual Global Collaborative Data Study
 
 Extracurriculars 💫
 - ⚡ Marching Virginians Colorguard
 - 👯 Chi Omega
 - 🌱 Kappa Theta Pi
 
+Hobbies
+- 🖌️ Painting
+- 🥘 Cooking
+- 🤟 Learning new languages
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anta.raj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antara-rajgopal/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antara.rajgopal@gmail.com) 
